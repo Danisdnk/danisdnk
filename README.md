@@ -46,7 +46,7 @@
 - <b>📱 Diseño y UI</b> : Photoshop, Illustrator, After Effects, Figma, Adobe Xd, Adobe Indesign.  
   
 
-#### <div align="center">PERO TAMBIEN TUVE LA POSIBILIDAD DE TRABAJAR CON ESTRAS OTRAS :</div>  
+#### <div align="center">PERO TAMBIEN TUVE LA POSIBILIDAD DE TRABAJAR CON ESTAS OTRAS :</div>  
   
 
 <br/>  
