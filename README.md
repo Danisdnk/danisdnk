@@ -22,7 +22,7 @@
 #### <div align="center">SOBRE MI:</div>  
   
 
-- 💻Me llamo Daniela, tengo 26 años y trabajo como Fullstack developer en Accenture   
+- 💻Me llamo Daniela, tengo 28 años y trabajo como Fullstack developer en Accenture   
   
 
 - 👩‍🎓Estudio en UADE desarrollo de Sorftware. Anterior a eso, finalice una licenciatura en diseño multimedia e interacción(UX/UI). Espero poder juntar en algún momento ambos universos ✨  
@@ -31,16 +31,19 @@
 - 📚 Disfruto mucho aprender nuevas tecnologías y poder aplicarlas cada día un poco mejor.  
   
 
-- 🌱 Mi objetivo 2021 es poder aprender React JS de forma fluida y mejorar en el stack de .NET  
+- 🌱 Mi objetivo 2023 es:
+      - poder pulir conocimiento de React JS
+      - aplicar patrones de diseños en mis desarrollos 
+      - mejorar en el stack de .NET  
   
 
 #### <div align="center">LAS TECNOLOGÌAS EN QUE MEJOR ME DESEMPEÑO SON </div>  
   
 
-- <b> 🎨 Frontend</b> : HTML5, CSS3, JS, JQUERY, BOOTSTRAP 3 Y 4, SASS Y KENDO UI.   
+- <b> 🎨 Frontend</b> : HTML5, CSS3, JS, RECTJS, JQUERY, BOOTSTRAP 3 Y 4, SASS Y KENDO UI.   
   
 
-- <b>📝 Backend</b> : C#, MVC, Python, SQL.  
+- <b>📝 Backend</b> : C#, MVC, Python, SQL,Mongo,nextjs.  
   
 
 - <b>📱 Diseño y UI</b> : Photoshop, Illustrator, After Effects, Figma, Adobe Xd, Adobe Indesign.  
@@ -96,7 +99,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/invision.svg" alt="Invision" height="50" />  
 </div>
 
 </td></tr></table>
